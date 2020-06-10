@@ -4,6 +4,8 @@ A one page Flask app, which can easily be deployed to Heroku.
 
 Adapted from https://github.com/heroku/python-getting-started
 
+![Heroku and Flask](header.png)
+
 ## Running Locally
 
 Make sure you have Python 3.7 [installed locally](http://install.python-guide.org). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
