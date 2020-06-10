@@ -4,6 +4,8 @@ A one page Flask app, which can easily be deployed to Heroku.
 
 Adapted from https://github.com/heroku/python-getting-started
 
+This is a template repository, you can [generate your own](https://github.com/dolugen/heroku-flask-starter/generate) from this.
+
 ![Heroku and Flask](header.png)
 
 ## Running Locally
