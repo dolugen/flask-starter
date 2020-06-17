@@ -1,8 +1,8 @@
-# Heroku Flask Starter App
+# Flask Starter App
 
 A barebones Flask app, which can easily be deployed to Heroku.
 
-This is a template repository, you can [generate your own](https://github.com/dolugen/heroku-flask-starter/generate) from this.
+This is a template repository, you can [generate your own](https://github.com/dolugen/flask-starter/generate) from this.
 
 Adapted from [heroku/python-getting-started](https://github.com/heroku/python-getting-started).
 
@@ -14,8 +14,8 @@ Adapted from [heroku/python-getting-started](https://github.com/heroku/python-ge
 Make sure you have Python 3.7 [installed locally](http://install.python-guide.org). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
 
 ```sh
-$ git clone https://github.com/dolugen/heroku-flask-starter.git
-$ cd heroku-flask-starter
+$ git clone https://github.com/dolugen/flask-starter.git
+$ cd flask-starter
 
 $ python3 -m venv env
 $ source ./env/bin/activate
